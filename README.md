@@ -1,6 +1,6 @@
-# Pokémon Yellow [![Build Status][travis-badge]][travis]
+# Pokémon Pink [![Build Status][travis-badge]][travis]
 
-This is a disassembly of Pokémon Yellow.
+This is a disassembly of Pokémon Yellow, Modified to make the hypotetical Pokemon Pink, first learned about in April 2020.
 
 It builds the following ROMs:
 
